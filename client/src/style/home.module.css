@@ -1,0 +1,67 @@
+
+
+.main{
+    display: flex;
+    padding-top: 50px;
+    /* justify-content: space-around; */
+    height: 100vh;
+    
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    /* background-image: url(public/main/png); */
+}
+
+.poster{
+    position: fixed;
+    top: 400px;
+    right: 0;
+    background-color: rgba(151, 51, 186, 0.5);;
+    /* z-index: -1; */
+color: rgb(21, 22, 20);
+    width: 300px;
+}
+
+/* .poster:hover {
+    z-index: 9999;
+    color: darkblue;
+} */
+
+.container{
+    display: flex;
+   width: 100%;
+    justify-content: space-around;
+}
+.motto{
+/* display: flex; */
+margin: 0 auto;
+/* width: 80%; */
+font-size: 25px;
+padding-right: 30px;
+}
+
+.photoContainer{
+    margin: 0 auto;
+    padding-left: 50px;
+    margin-right: 40px;
+width: 50%;
+}
+
+.photo{
+    width: 100%;
+    /* margin-right: 40px; */
+    /* height: 60%; */
+}
+
+.title{
+    color: black;
+    font-weight: 800;
+}
+
+.info{
+    display: flex;
+    flex-direction: column;
+}
+
+.title-info{
+    font-size: 22px;
+}

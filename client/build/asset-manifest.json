@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8e604a55.chunk.css",
+    "main.js": "/static/js/main.6a4af774.chunk.js",
+    "main.js.map": "/static/js/main.6a4af774.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c012fedc.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c012fedc.js.map",
+    "static/css/2.b94f1ce1.chunk.css": "/static/css/2.b94f1ce1.chunk.css",
+    "static/js/2.98bc0b63.chunk.js": "/static/js/2.98bc0b63.chunk.js",
+    "static/js/2.98bc0b63.chunk.js.map": "/static/js/2.98bc0b63.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.b94f1ce1.chunk.css.map": "/static/css/2.b94f1ce1.chunk.css.map",
+    "static/css/main.8e604a55.chunk.css.map": "/static/css/main.8e604a55.chunk.css.map",
+    "static/js/2.98bc0b63.chunk.js.LICENSE.txt": "/static/js/2.98bc0b63.chunk.js.LICENSE.txt",
+    "static/media/avatarka.0b183148.webp": "/static/media/avatarka.0b183148.webp",
+    "static/media/book.d1406fd2.webp": "/static/media/book.d1406fd2.webp",
+    "static/media/book1.6fc70328.webp": "/static/media/book1.6fc70328.webp",
+    "static/media/book2.cd15a586.webp": "/static/media/book2.cd15a586.webp",
+    "static/media/bookOpen.3695d593.webp": "/static/media/bookOpen.3695d593.webp",
+    "static/media/bootstrap-icons.css": "/static/media/bootstrap-icons.7d38a258.woff",
+    "static/media/docPage.e43eec6e.webp": "/static/media/docPage.e43eec6e.webp",
+    "static/media/dowln.9daed93c.webp": "/static/media/dowln.9daed93c.webp",
+    "static/media/main.22ac430b.webp": "/static/media/main.22ac430b.webp",
+    "static/media/name.b79e8c91.webp": "/static/media/name.b79e8c91.webp",
+    "static/media/portfolio.5fa10dcf.webp": "/static/media/portfolio.5fa10dcf.webp",
+    "static/media/sveta9.89bd1b62.jpg": "/static/media/sveta9.89bd1b62.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c012fedc.js",
+    "static/css/2.b94f1ce1.chunk.css",
+    "static/js/2.98bc0b63.chunk.js",
+    "static/css/main.8e604a55.chunk.css",
+    "static/js/main.6a4af774.chunk.js"
+  ]
+}

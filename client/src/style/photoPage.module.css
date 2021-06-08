@@ -1,0 +1,30 @@
+.cardPhoto{
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    margin-top: 20px;
+     max-width: 200px;
+     max-height: 500px;
+    /* justify-content: center; */
+   /* cursor: zoom-in(2); */
+}
+.display{
+    /* display: flex;
+    flex-direction: column; */
+    height: 300px;
+    justify-content: center;
+}
+
+.display:hover{
+    cursor: zoom-in;
+    transform: scale(2.5);
+    transition: transform .4s;
+    z-index: 9999;
+}
+
+.gallery{
+    margin: 0 auto;
+    margin-top: 50px;
+    display: flex;
+    flex-wrap: wrap;
+}

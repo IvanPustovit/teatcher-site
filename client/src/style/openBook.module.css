@@ -1,0 +1,29 @@
+.book{
+    width: 80%;
+    /* height: 200px; */
+    margin-top: 50px;
+    background-size: 100% 100%;
+    opacity: 0;
+    z-index: -9999;
+    
+}
+
+.open{
+animation: open 3s 1 ease-in-out;
+}
+
+.closed{
+    animation: closed 3s 1 ease-in-out;
+    display: none;
+
+}
+
+@keyframes open {
+  0% {opacity: 0;}
+  50%{opacity: 0.5;}
+  100%{opacity: 1;}}
+
+  @keyframes closed {
+  0% {opacity: 1;}
+  50%{opacity: 0.5;}
+  100%{ opacity: 0;}}

@@ -1,0 +1,45 @@
+.container-fluid {
+  margin-top: 40px;
+}
+
+.aside{
+  /* width: 20% !important; */
+}
+
+
+
+.classNumber{
+  margin: 0 auto;
+  margin-top: 30px;
+  width: 50%;
+  
+}
+
+.active{
+  color: rgb(19, 17, 17);
+  background-color: rgb(91, 216, 147);
+}
+
+
+/*Student List*/
+
+.form {
+  width: 90% !important;
+  
+}
+
+.input{
+  margin-right: 15px;
+  width: 90% !important;
+}
+
+.item{
+  display: flex !important;
+  justify-content: space-between;
+}
+
+.title{
+  margin: 0 auto;
+  text-align: center;
+  justify-content: center !important;
+}

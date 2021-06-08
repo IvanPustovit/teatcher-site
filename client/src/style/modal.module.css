@@ -1,0 +1,18 @@
+.modal {
+  position: absolute !important;
+  z-index: 999;
+  left: 29%;
+  width: 45%;
+  height: 82%;
+  margin: 0 auto;
+  margin-top: 4%;
+  text-align: center;
+  padding-top: 20% !important;
+  background-color: rgba(147, 147, 151, 0.2);
+}
+
+.spinner {
+  width: 5rem !important;
+  height: 5rem !important;
+  /* border: 0.5rem solid currentColor !important; */
+}

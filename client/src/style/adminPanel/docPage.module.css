@@ -1,0 +1,72 @@
+.main{
+    /* height: 2000px; */
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    /* background-image: url(public/main/png); */
+}
+
+.section{
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    padding-top: 50px;
+}
+
+.card{
+    /* margin-top: 30px; */
+    text-align: center;
+    height: 230px;
+    margin-bottom: 20px;
+    
+
+}
+
+.download{
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    margin-bottom: 5px;
+    text-align: center;
+    align-items: center;
+background-size: 100%;
+background-repeat: no-repeat;
+    width: 165px;
+    height: 60px;
+    text-decoration: none;
+    color: black;
+    font-size: 14px;
+    background-color: none !important;
+    border-color: none !important;
+    box-shadow: none !important;
+    text-shadow: none !important;
+    
+}
+
+.act{
+    margin: 0 auto;
+    display: block;
+    
+}
+
+.documentation{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 20px;
+    align-content: space-around;
+}
+
+.btn{
+    text-align: center;
+    height: 230px;
+    margin-bottom: 50px;
+}
+
+.button {
+    margin: 5px;
+    display: none !important;
+}
+.btn:hover > .button {
+    /* color: blue; */
+    display: block !important;
+}
